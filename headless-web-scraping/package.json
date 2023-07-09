@@ -1,0 +1,13 @@
+{
+  "name": "headless-web-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "16.3.1",
+    "puppeteer-core": "20.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "3.0.1"
+  }
+}
