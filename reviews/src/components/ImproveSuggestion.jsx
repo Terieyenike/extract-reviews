@@ -1,7 +1,7 @@
 const ImproveSuggestion = ({ suggestion }) => {
   return (
     <div>
-      <li>{suggestion}</li>
+      <li className='mt-2'>{suggestion}</li>
     </div>
   );
 };
