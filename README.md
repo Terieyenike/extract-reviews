@@ -8,7 +8,7 @@ Try [Bright Data](https://brightdata.com/) today!
 
 ![Reviews client](https://github.com/Terieyenike/extract-reviews/assets/25850598/f9117672-fb4d-4932-928e-ddf25625404b)
 
-Try the demo [live](#)
+Try the demo [live](https://stalwart-fudge-005fc3.netlify.app/)
 
 ## Tech Stack
 
@@ -25,14 +25,14 @@ Chat GPT
 Clone the project
 
 ```bash
-  git clone https://github.com/Terieyenike/
+  git clone https://github.com/Terieyenike/extract-reviews
 ```
 
 ## Environment variables
 
 To run this project, you will need to add the following environment variables to your `.env` file
 
-Reference the [.env.local](.env.local)
+Reference the [.env.local](/headless-web-scraping/.env.local)
 
 ## Authors
 
