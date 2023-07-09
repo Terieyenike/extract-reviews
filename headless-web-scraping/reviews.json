@@ -1,0 +1,22 @@
+[
+  {
+    "reviewerName": "Yash U.",
+    "reviewerText": "This was a very intensive course covering almost all backend stuff. A huge thanks to the instructor - Jonas and also to the community. A lot of bugs and problems were already posted in the Q&A section and it helped a lot. Towards the end of the course, there were a few things that were outdated and a lot of people were disappointed in the comments but for me these things helped a lot. You learn to search and find solutions on your own and this is what is required in real world. Hence, despite these issues towards the end, I would absolutely recommend this course to anyone who wants to start learning backend development.",
+    "id": 11
+  },
+  {
+    "reviewerName": "Shyam Nath R S.",
+    "reviewerText": "As always with Jonas's other courses like JS, HTML and CSS I understood everything he told. As an improvement, it was bit uneasy seeing the date you wrote code is 2019 in some lectures. Wished it was brand new. So can you do some update. Also can you consider incorporating lectures about Websocket, GraphQL, Testing ,Nodejs with Typescript and Deno as these where some topics I see included in another popular Nodejs course.",
+    "id": 27
+  },
+  {
+    "reviewerName": "Cédric D.",
+    "reviewerText": "Ok, this is clearly the BEST course and the MOST COMPLETE of NodeJs that you'll find on Udemy and maybe on the web right now.",
+    "id": 47
+  },
+  {
+    "reviewerName": "Adegoke K.",
+    "reviewerText": "Yes it was a good and nice course outline. Your explanation was beyond expectation. Hope to get more of your courses very soon.",
+    "id": 42
+  }
+]

@@ -16,11 +16,29 @@ async function run() {
     await page.goto(
       "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/"
     );
-  } catch (error) {
 
-  }
-  finally {
-    await browser?.close()
+    const reviews = await page.evaluate(() =>
+      Array.from(
+        document.querySelectorAll(
+          ".reviews--reviews-desktop--3cOLE .review--review-container--knyTv"
+        ),
+        (e) => ({
+          reviewerName: e.querySelector(".ud-heading-md").innerText,
+          reviewerText: e.querySelector(".ud-text-md span").innerText,
+          id: Math.floor(Math.random() * 100),
+        })
+      )
+    );
+
+   const outputFilename = "reviews.json"
+   fs.writeFile(outputFilename, JSON.stringify(reviews, null, 2), (err) => {
+     if (err) throw err;
+     console.log("file saved");
+   });
+  } catch (e) {
+    console.error("run failed", e);
+  } finally {
+    await browser?.close();
   }
 }
 
