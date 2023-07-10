@@ -7,7 +7,7 @@ const Text = () => {
         </h1>
         <p className='text-sm mt-3 md:text-xl'>
           Extract reviews from a specific product page{" "}
-          <span className='font-bold'>Udemy</span> using Bright Data, Scarping
+          <span className='font-bold'>Udemy</span> using Bright Data, Scraping
           Browser and GPT to analyze them to offer business insights.
         </p>
       </div>

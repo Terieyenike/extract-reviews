@@ -1,6 +1,6 @@
 # Using Scraping Browser and GPT for actionable product insights
 
-Extract reviews from a specific product page Udemy using Bright Data, Scarping Browser and GPT to analyze them to offer business insights.
+Extract reviews from a specific product page Udemy using Bright Data, Scraping Browser and GPT to analyze them to offer business insights.
 
 Try [Bright Data](https://brightdata.com/) today!
 
