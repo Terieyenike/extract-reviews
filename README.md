@@ -12,7 +12,7 @@ Try [Bright Data](https://brightdata.com/) today!
 
 ![Reviews client](https://github.com/Terieyenike/extract-reviews/assets/25850598/3ad738f7-738f-4c3c-9f34-3831dd8e4596)
 
-Try the demo [live](https://stalwart-fudge-005fc3.netlify.app/)
+Try the demo [live](https://udemyreviews.netlify.app/)
 
 ## Tech Stack
 
