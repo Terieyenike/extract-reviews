@@ -24,6 +24,10 @@ Chat GPT
 
 **Infrastructure(Web Scraping):** Bright Data
 
+## Want to follow the steps? Check out this tutorial:
+
+[Using Scraping Browser and GPT for Actionable Product Insights](https://hackernoon.com/using-scraping-browser-and-gpt-for-actionable-product-insights)
+
 ## Run Locally
 
 Clone the project
