@@ -16,7 +16,7 @@ const Footer = () => {
             <p>
               Fork, clone, and star this
               <a
-                href='https://github.com/Terieyenike/'
+                href='https://github.com/Terieyenike/extract-reviews'
                 target='_'
                 rel='noopener noreferrer'
                 className='text-blue-600'>
